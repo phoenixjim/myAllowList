@@ -7,18 +7,18 @@ cbsi.com.ssl.sc.omtrdc.net
 paramountplus.com
 (. )timesunion.com
 
-akamai.net
-movenetworks.com
-movetv.com
-footprint.net
-amazonaws.com
-conviva.com
-sling.com
-cloudflare.net
-akamaiedge.net
-fastly.net
-adobeprimetime.com
-adobepass.com
+#akamai.net
+#movenetworks.com
+#movetv.com
+#footprint.net
+#amazonaws.com
+#conviva.com
+#sling.com
+#cloudflare.net
+#akamaiedge.net
+#fastly.net
+#adobeprimetime.com
+#adobepass.com
 
 # i-amlg-prod.appsot.com
 # partnerad.l.doubleclick.net
