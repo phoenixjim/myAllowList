@@ -6,7 +6,6 @@ cbsinteractive.hb.omtrdc.net
 cbsi.com.ssl.sc.omtrdc.net
 paramountplus.com
 (. )timesunion.com
-braze.com/
 
 #akamai.net
 #movenetworks.com
