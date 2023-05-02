@@ -7,6 +7,7 @@ cbsi.com.ssl.sc.omtrdc.net
 paramountplus.com
 (. )timesunion.com
 (. )sba.gov
+(. )t.co
 
 #akamai.net
 #movenetworks.com
