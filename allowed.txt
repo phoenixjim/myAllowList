@@ -9,6 +9,7 @@ paramountplus.com
 (. )sba.gov
 (. )t.co
 click.redditmail.com
+creditkarmacdn-a.akamaihd.net
 
 #akamai.net
 #movenetworks.com
