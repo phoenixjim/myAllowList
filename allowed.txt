@@ -12,6 +12,7 @@ click.redditmail.com
 creditkarmacdn-a.akamaihd.net
 (. )sling.com
 (. )sling.tv
+(. )roku.com
 
 #akamai.net
 #movenetworks.com
