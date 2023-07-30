@@ -12,7 +12,8 @@ click.redditmail.com
 creditkarmacdn-a.akamaihd.net
 (. )sling.com
 (. )sling.tv
-(. )roku.com
+(. )logs.roku.com
+p-cg64-slinganalytics.movetv.com
 
 #akamai.net
 #movenetworks.com
