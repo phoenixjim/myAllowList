@@ -10,6 +10,8 @@ paramountplus.com
 (. )t.co
 click.redditmail.com
 creditkarmacdn-a.akamaihd.net
+(. )sling.com
+(. )sling.tv
 
 #akamai.net
 #movenetworks.com
