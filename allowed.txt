@@ -1,19 +1,9 @@
 # Originally from https://raw.githubusercontent.com/schrebra/paramount.plus.whitelist/main/hosts
-(. )googleusercontent.com
-www.paramountplus.com
-saa.cbsi.com
-cbsinteractive.hb.omtrdc.net
-cbsi.com.ssl.sc.omtrdc.net
-paramountplus.com
-(. )timesunion.com
 (. )sba.gov
 (. )t.co
+(. )twitter.com
 click.redditmail.com
 creditkarmacdn-a.akamaihd.net
-(. )sling.com
-(. )sling.tv
-(. )logs.roku.com
-p-cg64-slinganalytics.movetv.com
 
 #akamai.net
 #movenetworks.com
